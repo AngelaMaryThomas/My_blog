@@ -3,7 +3,7 @@ title: "Quarto: The Simple Yet Powerful Tool for Effortless Blogging and Publish
 author: "Emma"
 date: "2024-08-03"
 categories: [new learning]
-image : "thumb.jpg"
+image : "pp.jpg"
 ---
 
 Quarto is an open-source publishing system designed to simplify the process of creating and sharing documents, presentations, blogs, and websites. It supports multiple formats, including Markdown and Jupyter Notebooks, making it a versatile tool for writers, researchers, and educators. One of the main attractions of Quarto is its user-friendly interface, which allows users to focus on content creation without worrying about complex formatting or coding. With Quarto, integrating text, code, and visualizations into a single document is straightforward, enhancing the efficiency of content creation and sharing.
