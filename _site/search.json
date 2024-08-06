@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My_blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto: The Simple Yet Powerful Tool for Effortless Blogging and Publishing\n\n\n\n\n\n\nnew learning\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nEmma\n\n\n\n\n\n\n\n\n\n\n\n\nThrough the pages\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nEmma\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Through the pages",
+    "section": "",
+    "text": "Hey lets start our journey \nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/New_thoughts/index.html",
+    "href": "posts/New_thoughts/index.html",
+    "title": "Quarto: The Simple Yet Powerful Tool for Effortless Blogging and Publishing",
+    "section": "",
+    "text": "Quarto is an open-source publishing system designed to simplify the process of creating and sharing documents, presentations, blogs, and websites. It supports multiple formats, including Markdown and Jupyter Notebooks, making it a versatile tool for writers, researchers, and educators. One of the main attractions of Quarto is its user-friendly interface, which allows users to focus on content creation without worrying about complex formatting or coding. With Quarto, integrating text, code, and visualizations into a single document is straightforward, enhancing the efficiency of content creation and sharing.\nIn addition to its ease of use, Quarto offers robust features that cater to a wide range of publishing needs. It provides built-in support for citations, cross-references, and advanced layout options, enabling the creation of professional and polished documents. The system is highly customizable, allowing users to tailor their output to specific styles and requirements. Moreover, Quarto’s seamless integration with various platforms and its ability to generate outputs in formats such as HTML, PDF, and Word make it an ideal choice for those looking to publish their work across different mediums. Overall, Quarto’s simplicity and versatility make it a powerful tool for anyone looking to streamline their publishing process."
+  }
+]
